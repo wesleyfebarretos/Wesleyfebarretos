@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Wesley Ferreira</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c7e2ca28de4726d848194ebbb60d6f91ff1188a781fb370e0aa8dab942cc9c50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313637302f312a5a53566d57476363317765454e6230536861775778772e676966">
+<img align="right" alt="Coding" width="400" src="https://github.com/Wesleyfbarretos/My-Octocat/blob/main/images/octocat-1685600472053.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyfbarretos&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyfbarretos" /> </p>
 
