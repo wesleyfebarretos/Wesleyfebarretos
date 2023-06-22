@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyfbarretos&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyfbarretos" /> </p>
 
+- 😋 Visit my personal [portfolio](https://wesleyfbarretos.vercel.app)
+
 - 🔭 I’m currently working on **improving myself**
 
 - 🌱 I’m currently learning **React, NestJS, algorithm**
