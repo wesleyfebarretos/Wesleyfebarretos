@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **improving myself**
 
-- 🌱 I’m currently learning **React, NestJS, algorithm**
+- 🌱 I’m currently learning **Golang, Java, Kubernetes, Data structure**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Typescript, NodeJS, SQL**
+- 💬 Ask me about **Node, Typescript, SQL and relational databases, Golang, NestJS**
 
 - 📫 How to reach me **wesleyfebarretos@gmail.com**
 
