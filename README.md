@@ -1,21 +1,11 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Wesley Ferreira</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil</h3>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Wesleyfbarretos/My-Octocat/blob/main/images/octocat-1685600472053.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyfbarretos&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyfbarretos" /> </p>
 
-- 😋 Visit my personal [portfolio](https://wesleyfbarretos.vercel.app)
-
-- 🔭 I’m currently working on **improving myself**
-
-- 🌱 I’m currently learning **Golang, Java, Kubernetes, Data structure**
-
-- 💬 Ask me about **Node, Typescript, SQL and relational databases, Golang, NestJS**
-
 - 📫 How to reach me **wesleyfebarretos@gmail.com**
-
-- ⚡ Fun fact **I am very funny, I think 🤔😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
